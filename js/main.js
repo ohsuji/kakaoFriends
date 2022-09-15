@@ -26,4 +26,3 @@ $('.btn_close').click(function(){
     $('.login_popup').hide();
     $('.dark').css({'display':'none'});
 });
-
